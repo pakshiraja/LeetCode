@@ -129,6 +129,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/pakshiraja/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pakshiraja/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pakshiraja/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pakshiraja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/pakshiraja/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pakshiraja/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pakshiraja/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pakshiraja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -144,12 +146,15 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pakshiraja/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pakshiraja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pakshiraja/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pakshiraja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/pakshiraja/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/pakshiraja/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
